@@ -1,0 +1,49 @@
+
+/* !eybdoog */
+
+}
+;)0( tixe	    
+;)seDeliFtuO( esolc	    
+;)seDeliFnI( esolc	    
+
+;)"rorrE daeR"(sys_rre		
+)0< etybn( fi	
+}	
+;1=-tesffo		
+;)"rorrE etirW"(sys_rre			
+)etybn =! )etybn ,reffub ,seDeliFtuO(etirw( fi		
+;)tesffo ,EZIS_REFFUB ,reffub ,seDeliFnI(daerp = etybn		
+{	
+)1- > tesffo( elihw	
+
+;)"1 rorre keesl"( sys_rre		
+)1- ==))DNE_KEES ,0 ,seDeliFnI( keesl = tesffo(( fi	
+;)"rorrE nepO eliF taerC"(sys_rre		
+)0 < ))0670 ,TAERC_O | RWDR_O ,"txt.tuo_6ksat"(nepo = seDeliFtuO(( fi	
+;)0(ksamu	
+eliftuo//	
+;)YLNODR_O,"c.6ksat"(nepo = seDeliFnI	
+selifni//	
+    
+;]EZIS_REFFUB[reffub rahc	    
+;1- = tesffo tni	
+;etybn tni	    
+;seDeliFtuO tni	    
+;seDeliFnI tni	    
+{
+)(niam tni
+
+}
+;)1( tixe	
+;)rts,"s%"( ftnirp	
+{
+)rts* rahc(sys_rre diov
+
+1 EZIS_REFFUB enifed#
+
+>h.ltncf< edulcni#
+/*ONELIF_TUODTS ,ONELIF_NIDTS*/ >h.dtsinu< edulcni#
+>h.bildts< edulcni#
+>h.oidts< edulcni#
+
+/* seton morf yltsom edoc ,3 baL ,6 ksaT ,hcsleK nagoL */

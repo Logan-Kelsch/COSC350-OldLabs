@@ -1,0 +1,57 @@
+
+/* !eybdoog */
+
+}
+;)0( tixe	    
+;)seDeliFtuO( esolc	    
+;)seDeliFnI( esolc	    
+
+;)"rorrE daeR"(sys_rre		
+)0< etybn( fi	
+}	
+;1=-tesffo		
+tluaf noitatnemges on erusne ot dne ta ,noitareti pool elihw txen rof tesffo tfihs//		
+;)"rorrE etirW"(sys_rre			
+)etybn =! )etybn ,reffub ,seDeliFtuO(etirw( fi		
+ylreporp gnitirw atad erusne//		
+;)EZIS_REFFUB ,reffub ,seDeliFnI(daer = etybn		
+ylgnidrocca atad ni daer//		
+;)"2 rorre keesl"(sys_rre			
+)1- ==)TES_KEES ,tesffo ,seDeliFnI( keesl( fi		
+noitacol tesffo ot evom nac yleporp keesl fi//		
+	{	
+)1- > tesffo( elihw	
+elif eht fo tnorf dehcaer ton sah elif ypoc fo rotpircsed elihw//	
+;)"1 rorre keesl"( sys_rre		
+)1- ==))DNE_KEES ,0 ,seDeliFnI( keesl = tesffo(( fi	
+elif gniypoc fo dne eht dnif yllufsseccus nac keesl fi rof kcehc//	
+;)"rorrE nepO eliF taerC"(sys_rre		
+)0 < ))0670 ,TAERC_O | RWDR_O ,]2[vgra(nepo = seDeliFtuO(( fi	
+sseccus rof gnikcehc ,etirw/daer denepo elif//	
+teser ksamu//;)0(ksamu	
+eliftuo//	
+;)YLNODR_O,]1[vgra(nepo = seDeliFnI	
+ylno daer denepo ,selifni//	
+    
+;]EZIS_REFFUB[reffub rahc	    
+lasrever rof elif hguorht gnilacs tcaxe rof desu si taht elbairav//;1- = tesffo tni	
+;etybn tni	    
+;seDeliFtuO tni	    
+;seDeliFnI tni	    
+{
+)][vgra *rahc ,cgra tni(niam tni
+
+}
+;)1( tixe	
+;)rts,"s%"( ftnirp	
+{
+)rts* rahc(sys_rre diov
+
+1 EZIS_REFFUB enifed#
+
+>h.ltncf< edulcni#
+/*ONELIF_TUODTS ,ONELIF_NIDTS*/ >h.dtsinu< edulcni#
+>h.bildts< edulcni#
+>h.oidts< edulcni#
+
+/* seton morf yltsom edoc ,3 baL ,5 ksaT ,hcsleK nagoL */

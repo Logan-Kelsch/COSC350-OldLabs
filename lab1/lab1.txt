@@ -1,0 +1,123 @@
+Logan Kelsch
+COSC 350 - SYSTEM SOFTWARE
+Dr. PARK
+LAB 1
+
+TASK 1. -----------------------------
+
+/usr/include
+
+TASK 2. -----------------------------
+
+/../bin/ls
+
+TASK 3. -----------------------------
+
+Step 2:
+a) Permissions:
+    rw
+    
+b) Owner:
+    Me  (lkelsch1)
+    
+c) Group associated:
+    students
+    
+d) Am I in that group:
+    Yes
+    
+e) All groups:
+    Students
+
+Step 3:
+    chmod u=x foo
+    chmod g=w foo
+    chmod o=rx foo
+
+Step 4/5:
+    "rm foo" 
+    prompted
+    "remove write-protected regular empty file 'foo'?"
+    I responded with "y"
+
+TASK 4. -----------------------------
+Step 2:
+-a do not ingore entries starting with .
+-l use a long listing format
+-R list subdirectories recursively
+ 
+Step 3:
+-a lists all elements in the directory by name
+-l lista all elements in directory and details for each
+
+Step 4:
+time - get times in seconds
+
+Step 5:
+man - an interface to the system reference manuals
+
+TASK 5. -----------------------------
+Step 2:
+/mnt/linuxlab/home
+
+Step 3:
+cd ..
+
+Step 4:
+/mnt/linuxlab
+
+Step 5:
+drwxr-xr-x
+
+TASK 6. -----------------------------
+Step 1:
+ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=31c321f9f0c1f86a379f7efaaeb75f707998f27f, for GNU/Linux 3.2.0, stripped
+
+Step 2:
+empty
+
+Step 3: 
+ASCII text
+
+Step 4:
+Directory
+
+TASK 7. -----------------------------
+Step 4:
+head ~/.bash_history
+
+Step 5:
+tail ~/.bash_history
+
+TASK 8. -----------------------------
+Step 1:
+cp ~/.bash_history ~/dotbashhistory
+
+Step 2:
+Read and Write permission
+
+Step 3:
+The system seems to have copied to the same destination
+
+Step 4:
+permission remains the same, only difference is the time association with dotbashhistory
+
+Step 5:
+cp -a ~/.bash_history ~/dotbashhistory
+
+TASK 9. -----------------------------
+mv ~/dotbashhistory ~/dotbashhistory.old
+
+TASK 10. -----------------------------
+rm ~/dotbashhistory.old
+
+TASK 11. -----------------------------
+Step 1:
+mkdir ~/Foo
+
+Step 2:
+rmdir ~/Foo/Bar
+rmdir ~/Foo
+
+Step 3:
+rm -R ~/Foo

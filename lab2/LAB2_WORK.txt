@@ -1,0 +1,61 @@
+Logan Kelsch
+COSC 350
+LAB 2
+Dr. Park
+
+TASK 1: _________________________________________
+
+PS1 Location:
+\[\e]0;\u@\h: 
+PS1:
+\w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+
+Empty variables:
+EDITOR, LD_LIBRARY_PATH, LESS, MAIN, MANPATH, MORE, PAGER
+
+Non-Empty variables:
+HOME - /mnt/linuxlab/home/lkelsch1
+HOSTNAME - hpcl1-6
+PATH - /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:~/bin:/usr/local/cuda/bin:/opt/hadoop-3.3.3/bin:/opt/hadoop-3.3.3/sbin:/opt/ompi/bin:/opt/pmix/bin
+PWD - /mnt/linuxlab/home/lkelsch1
+SHELL - /bin/bash
+TERM - xterm-256color
+USER - lkelsch1
+
+TASK 2: _________________________________________
+
+Saved to "lab2Prompt"
+echo $PS1 >lab2Prompt
+PS1="[COSC350 \W]"
+PS1=$(cat lab2Prompt)
+
+TASK 4: _________________________________________
+
+Step 1:
+    ls sdlfkjsdflkjs 2> bar
+Step 2:
+    ls sdflkjslksdff 2> /dev/null
+Step 3:
+    echo 5 >> foo
+    For each number
+Step 4:
+    cat foo > bar
+Step 5:
+    sort < foo
+Step 6:
+    SORT < foo > bar
+
+TASK 5: _________________________________________
+
+1. 
+    Made a short prog.sh containing "for i in $(seq 1 100);" and "echo $i"
+2.  
+    100 100 292
+    output is newline, word, and byte data count
+3.
+    head -38 numbs | tail -14 > somenumbs
+    THANK YOU JJ, he helped me with his IQ of 225.
+4.
+    14 14 42 somenumbs
+    14 lines, 14 words, 42 byte data count
+
